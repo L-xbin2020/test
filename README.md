@@ -1,7 +1,6 @@
 # test
 用来测试GitHub功能
-+ 好多东西都忘记了
-#上传GitHub的git语令
+# 上传GitHub的git语令
 + git init
 + git add .
 + git commit -m"提交日志"  
