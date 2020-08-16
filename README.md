@@ -4,6 +4,8 @@
 + git init
 + git add .
 + git commit -m"提交日志"  
-+ git remove add origin 复制的ssh
++ git remote add origin 复制的ssh
 + git push -u origin master 
 + git pull --rebase origin master
+
+
